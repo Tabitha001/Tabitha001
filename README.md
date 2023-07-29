@@ -9,7 +9,7 @@
 
 
 
-PROJECTS 
+[PROJECTS](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main) 
 
 Here you can have access to the notebooks of my projects.
 
