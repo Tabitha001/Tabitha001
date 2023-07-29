@@ -22,6 +22,10 @@ This study tries to uncover early warning signals of financial distress, assisti
 
 -[OPTIMIZING TERM DEPOSIT SUBSCRIPTIONS IN DIRECT MARKETING CAMPAIGNS](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main/OPTIMIZING%20TERM%20DEPOSIT%20SUBSCRIPTIONS%20IN%20DIRECT%20MARKETING%20CAMPAIGNS): A Case Study with a Portuguese Banking Institution 
 
+Direct marketing campaigns play a crucial role in promoting financial products, such as term deposits, to potential customers. However, a one-size-fits-all approach often leads to suboptimal results and resource wastage. This case study seeks to address this issue by applying data-driven insights and machine learning to target the right customers with personalized offers, ultimately increasing term deposit subscriptions and maximizing the campaign's return on investment.
+The goal of the study is to develop an effective approach for detecting potential customers who are likely to sign up for term deposits using machine learning techniques and customer data. To create a data-driven strategy that maximizes the campaign's success rate and enhances the bank's overall marketing strategy by examining past campaign data, consumer demographics, and behavioral trends.
+
+
 -[UNMASKING DECEPTION](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main/UNMASKING%20DECEPTION):Leveraging Natural Language Processing to Detect Fake News Statements on a Political News Website
 
 -NUMBER OF VIEWS PREDICTION: A Data-driven Approach to Predicting Online Content Engagement
