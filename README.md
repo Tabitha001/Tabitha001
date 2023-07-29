@@ -28,5 +28,11 @@ The goal of the study is to develop an effective approach for detecting potentia
 
 -[UNMASKING DECEPTION](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main/UNMASKING%20DECEPTION):Leveraging Natural Language Processing to Detect Fake News Statements on a Political News Website
 
+In an era of information abundance, distinguishing real news from fake or misleading content has become increasingly challenging. The spread of fake news can significantly impact public opinion, undermine democratic processes, and foster polarization. This project aims to address this issue specifically in the context of a political news website by leveraging NLP to detect deceptive statements and ensure the integrity and credibility of news content. The project involves data collection by webscrapping, model training, and evaluation to create a reliable tool for distinguishing genuine news from fabricated information.
+
 -NUMBER OF VIEWS PREDICTION: A Data-driven Approach to Predicting Online Content Engagement
+
+Understanding the factors that contribute to content engagement and accurately predicting the number of views for a given piece of content can be immensely beneficial for content creators and businesses alike. This project aims to develop a comprehensive data-driven approach to predict the level of engagement an online content piece (Article) is likely to receive, thus enabling content creators to make informed decisions to maximize their reach and impact.
+
+The aim of this project is to develop a data-driven approach for predicting the number of views and overall engagement of online content(Article). It involves data collection by webscrapping, feature engineering, model training, and performance evaluation to create a robust and efficient prediction system.
 
