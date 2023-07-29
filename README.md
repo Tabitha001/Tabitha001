@@ -36,6 +36,5 @@ In an era of information abundance, distinguishing real news from fake or mislea
 -NUMBER OF VIEWS PREDICTION: A Data-driven Approach to Predicting Online Content Engagement
 
 Understanding the factors that contribute to content engagement and accurately predicting the number of views for a given piece of content can be immensely beneficial for content creators and businesses alike. This project aims to develop a comprehensive data-driven approach to predict the level of engagement an online content piece (Article) is likely to receive, thus enabling content creators to make informed decisions to maximize their reach and impact.
-
 The aim of this project is to develop a data-driven approach for predicting the number of views and overall engagement of online content(Article). It involves data collection by webscrapping, feature engineering, model training, and performance evaluation to create a robust and efficient prediction system.
 
