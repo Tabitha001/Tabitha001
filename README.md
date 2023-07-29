@@ -14,5 +14,5 @@ PROJECTS
 Here you can have access to the notebooks of my projects.
 
 
--UNMASKING DECEPTION: [Leveraging Natural Language Processing to Detect Fake News Statements on a Political News Website
-]([url](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main/UNMASKING%20DECEPTION)https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main/UNMASKING%20DECEPTION)
+-[UNMASKING DECEPTION](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main/UNMASKING%20DECEPTION):Leveraging Natural Language Processing to Detect Fake News Statements on a Political News Website
+
