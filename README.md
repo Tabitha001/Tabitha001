@@ -4,12 +4,10 @@
 - 🌱I am currently learning about application of Deep Learning in Natural language processing
 - 👯 I’m looking to collaborate on interesting Machine Learning Projects
 - 📫 Reach me via: ibruby11@gmail.com
+-[MY RESUME](https://drive.google.com/file/d/1oZDfZq2NYoggsh9t55zAEbXs_t8IYonm/view?usp=sharing)
 
 
 
-
-
-[MY RESUME](https://drive.google.com/file/d/1oZDfZq2NYoggsh9t55zAEbXs_t8IYonm/view?usp=sharing)
 
 
 [PROJECTS](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main) 
