@@ -9,7 +9,7 @@
 
 
 
-
+[MY RESUME](https://drive.google.com/file/d/1oZDfZq2NYoggsh9t55zAEbXs_t8IYonm/view?usp=sharing)
 
 
 [PROJECTS](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main) 
