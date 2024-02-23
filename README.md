@@ -4,7 +4,7 @@
 - 🌱I am currently learning about applications of Data Science in Finance
 - 👯 I’m looking to collaborate on interesting Data Science Projects
 - 📫 Reach me via: ibruby11@gmail.com
-- [MY RESUME](https://drive.google.com/file/d/1oZDfZq2NYoggsh9t55zAEbXs_t8IYonm/view?usp=sharing)
+- [MY RESUME](https://drive.google.com/file/d/1x5r-JVcUo0u8lbYM5JtcYtqBkdx1WJuL/view?usp=drive_link)
 
 
 
