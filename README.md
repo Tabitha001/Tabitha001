@@ -1,8 +1,8 @@
 
 - 👋 Hi, i'm Dorcas Akinnibosun
 - 👀 I am interested in Data Science with Applications in Finance and Natural Language processing 
-- 🌱I am currently learning about applications of machine learning in Finance
-- 👯 I’m looking to collaborate on interesting Machine Learning Projects
+- 🌱I am currently learning about applications of Data Science in Finance
+- 👯 I’m looking to collaborate on interesting Data Science Projects
 - 📫 Reach me via: ibruby11@gmail.com
 - [MY RESUME](https://drive.google.com/file/d/1oZDfZq2NYoggsh9t55zAEbXs_t8IYonm/view?usp=sharing)
 
