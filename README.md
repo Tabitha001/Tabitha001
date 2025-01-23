@@ -1,6 +1,6 @@
 
 - 👋 Hi, i'm Dorcas Akinnibosun
-- 👀 I am interested in Data Science with Applications in Finance, Natural Language processing and Computer Vision
+- 👀 I am interested in Data Science with Applications in Natural Language processing and Computer Vision
 - 🌱I am currently learning about applications of Data Science in Finance
 - 👯 I’m looking to collaborate on interesting Data Science Projects
 - 📫 Reach me via: ibruby11@gmail.com
