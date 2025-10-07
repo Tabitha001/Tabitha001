@@ -1,6 +1,16 @@
-# 👋 Hi, I’m Dorcas  
+# 👋 Hi, I’m Dorcas Akinnibosun 
 
-I’m a **Data Analyst** passionate about transforming data into meaningful insights and visuals that drive better decisions.  
+I am a **Data Analyst** who is passionate about transforming data into meaningful insights and visuals that drive better decisions.  
+
+---
+
+## About Me
+
+My curiosity for how things work led me to study Mechanical Engineering, where I learned to approach problems with structure, logic, and precision. That same mindset now drives my passion for data analysis in uncovering insights and patterns that guide better decisions.
+
+---
+
+## What I Do
 
 I mainly work with **Microsoft Excel**, **Power BI**, and **Python** to:  
 - 📊 Design clean and insightful dashboards and reports  
