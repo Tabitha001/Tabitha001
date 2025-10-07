@@ -5,13 +5,13 @@ I am a **Data Analyst** who is passionate about transforming data into meaningfu
 
 
 ## About Me
----
+
 My curiosity for how things work led me to study Mechanical Engineering, where I learned to approach problems with structure, logic, and precision. That same mindset now drives my passion for data analysis in uncovering insights and patterns that guide better decisions.
 
 
 
 ## What I Do
----
+
 I mainly work with **Microsoft Excel**, **Power BI**, and **Python** to:  
 - 📊 Design clean and insightful dashboards and reports  
 - 🧹 Collect, clean, and analyze data to uncover trends and patterns  
@@ -21,7 +21,7 @@ I also have **Beginner SQL skills** and enjoy learning through hands-on projects
 
 As a lifelong learner, I love simplifying complex data concepts into clear, practical outcomes that others can understand and apply.  
 
----
+
 
 ## 📂 What You’ll Find Here  
 
@@ -31,13 +31,12 @@ On this GitHub profile, you’ll find:
 - Data analysis projects with step-by-step explanations   
 - Real-world examples of how data solves problems  
 
----
+
 
 ##  Tools & Skills  
 
 **Excel | Power BI | SQL | Python | Pandas | Matplotlib | Data Cleaning | Data Visualization | Reporting**
 
----
 
 
 ## 🤝 Let’s Connect  
