@@ -1,44 +1,37 @@
+# 👋 Hi, I’m Dorcas  
 
-- 👋 Hi, i'm Dorcas Akinnibosun
-- 👀 I am interested in Data Science with Applications in Natural Language processing and Computer Vision
-- 🌱I am currently learning about applications of Data Science in Finance
-- 👯 I’m looking to collaborate on interesting Data Science Projects
-- 📫 Reach me via: ibruby11@gmail.com
-- [MY RESUME](https://drive.google.com/file/d/1x5r-JVcUo0u8lbYM5JtcYtqBkdx1WJuL/view?usp=drive_link)
+I’m a **Data Analyst** passionate about transforming data into meaningful insights and visuals that drive better decisions.  
 
+I mainly work with **Microsoft Excel**, **Power BI**, and **Python** to:  
+- 📊 Design clean and insightful dashboards and reports  
+- 🧹 Collect, clean, and analyze data to uncover trends and patterns  
+- 💡 Help individuals and organizations make informed, data-driven decisions  
 
+I also have **Beginner SQL skills** and enjoy learning through hands-on projects that strengthen my analytical thinking.  
 
+As a lifelong learner, I love simplifying complex data concepts into clear, practical outcomes that others can understand and apply.  
 
+---
 
+## 📂 What You’ll Find Here  
 
+On this GitHub profile, you’ll find:  
+- Formula-driven Excel dashboards
+- Power BI interactive dashboards  
+- Data analysis projects with step-by-step explanations   
+- Real-world examples of how data solves problems  
 
+---
 
+##  Tools & Skills  
 
+**Excel | Power BI | SQL | Python | Pandas | Matplotlib | Data Cleaning | Data Visualization | Reporting**
 
-
-[PROJECTS](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main) 
-
-Here you can have access to the notebooks of my projects.
-
-
--[FINANCIAL DISTRESS PREDICTION](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main/FINANCIAL%20DISTRESS%20PREDICTION): A Case Study on Anticipating Economic Hardship in companies and Institutions
-
-The goal of this case study is to create a reliable financial distress prediction model that can predict financial difficulty in businesses and institutions. Financial distress is an immense concern for organizations and businesses all over the world, frequently resulting in insolvency, bankruptcy, or extremely difficult economic conditions. Early warning indications of financial trouble can have a substantial impact on decision-making and help avoid negative outcomes. In order to create a trustworthy model that may predict financial difficulty and assist stakeholders in making wise decisions, this case study looks into historical financial data as well as other pertinent economic indicators.
-This study tries to uncover early warning signals of financial distress, assisting stakeholders, investors, and policymakers in taking proactive measures to mitigate potential risks. It does this by utilizing historical financial data, key performance indicators, and macroeconomic variables. To build a strong prediction framework, the project includes data preparation, addressing of class imbalance, data transformation, model training, and evaluation.
-
-
--[OPTIMIZING TERM DEPOSIT SUBSCRIPTIONS IN DIRECT MARKETING CAMPAIGNS](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main/OPTIMIZING%20TERM%20DEPOSIT%20SUBSCRIPTIONS%20IN%20DIRECT%20MARKETING%20CAMPAIGNS): A Case Study with a Portuguese Banking Institution 
-
-Direct marketing campaigns play a crucial role in promoting financial products, such as term deposits, to potential customers. However, a one-size-fits-all approach often leads to suboptimal results and resource wastage. This case study seeks to address this issue by applying data-driven insights and machine learning to target the right customers with personalized offers, ultimately increasing term deposit subscriptions and maximizing the campaign's return on investment.
-The goal of the study is to develop an effective approach for detecting potential customers who are likely to sign up for term deposits using machine learning techniques and customer data. To create a data-driven strategy that maximizes the campaign's success rate and enhances the bank's overall marketing strategy by examining past campaign data, consumer demographics, and behavioral trends.
+---
 
 
--[UNMASKING DECEPTION](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main/UNMASKING%20DECEPTION): Leveraging Natural Language Processing to Detect Fake News Statements on a Political News Website
+## 🤝 Let’s Connect  
 
-In an era of information abundance, distinguishing real news from fake or misleading content has become increasingly challenging. The spread of fake news can significantly impact public opinion, undermine democratic processes, and foster polarization. This project aims to address this issue specifically in the context of a political news website by leveraging NLP to detect deceptive statements and ensure the integrity and credibility of news content. The project involves data collection by webscrapping, model training, and evaluation to create a reliable tool for distinguishing genuine news from fabricated information.
+I’m always open to collaboration, feedback, and discussions on data analysis.  
 
--[NUMBER OF VIEWS PREDICTION](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/tree/main/Number_of_views_prediction): A Data-driven Approach to Predicting Online Content Engagement
-
-Understanding the factors that contribute to content engagement and accurately predicting the number of views for a given piece of content can be immensely beneficial for content creators and businesses alike. This project aims to develop a comprehensive data-driven approach to predict the level of engagement an online content piece (Article) is likely to receive, thus enabling content creators to make informed decisions to maximize their reach and impact.
-The aim of this project is to develop a data-driven approach for predicting the number of views and overall engagement of online content(Article). It involves data collection by webscrapping, feature engineering, model training, and performance evaluation to create a robust and efficient prediction system.
-
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/dorcas-akinnibosun) • [Twitter](https://x.com/DorcasAkins0) • [Email](ibruby11@gmail.com)
