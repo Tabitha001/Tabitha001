@@ -8,7 +8,6 @@ I am a **Data Analyst** who is passionate about transforming data into meaningfu
 
 My curiosity for how things work led me to study Mechanical Engineering, where I learned to approach problems with structure, logic, and precision. That same mindset now drives my passion for data analysis in uncovering insights and patterns that guide better decisions.
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/37c67393-007c-44ea-9ba9-d9ceba3d8ced" />
 [MY CV](https://docs.google.com/document/d/1TyRPfr72Z4xGiPKCRgny7YdA9-PsREYECD5Qnr3v_-s/edit?usp=sharing)
 
 ## What I Do
