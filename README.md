@@ -17,7 +17,7 @@ I mainly work with **Microsoft Excel**, **Power BI**, and **Python** to:
 - 🧹 Collect, clean, and analyze data to uncover trends and patterns  
 - 💡 Help individuals and organizations make informed, data-driven decisions  
 
-I also have **Beginner SQL skills** and enjoy learning through hands-on projects that strengthen my analytical thinking.  
+I also have **growing SQL skills** and enjoy learning through hands-on projects that strengthen my analytical thinking.  
 
 As a lifelong learner, I love simplifying complex data concepts into clear, practical outcomes that others can understand and apply.  
 
